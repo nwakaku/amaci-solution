@@ -152,7 +152,7 @@ const Popup = () => {
       {/* Header */}
       <div className="px-4 py-3 border-b bg-gray-50">
         <div className="flex justify-between items-center">
-          <h1 className="text-base font-semibold">AMACI Manager</h1>
+          <h1 className="text-base font-semibold">A-MACI KEEPER</h1>
           <div className='flex'>
             <button
             onClick={() => setShowGenerateModal(true)}

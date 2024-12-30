@@ -21,7 +21,7 @@ The primary goals of this project are:
   - Discard old keypairs and generate replacements.
   - Automatically notify A-MACI backends of new public keys.
 - **Message Signing**:
-  - Allow users to sign MACI messages directly from the app.
+  - Allow users to sign MACI/A-MACI messages directly from the app.
   - Display signed messages in human-readable and raw formats.
 
 - **User-Friendly Interface**:
@@ -51,6 +51,7 @@ The primary goals of this project are:
 ### 4.2 Security Measures
 - Implement Content Security Policy (CSP) to block malicious scripts.
 - Ensure private keys are never transmitted outside the browser.
+- Zero-knowledge proof integration
 
 ### 4.3 Development
 1. **Web Application**

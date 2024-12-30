@@ -5,7 +5,7 @@ import './Popup.css';
 const Popup = () => {
   return (
     <div className="App">
-      <p className='text-2xl'>Home</p>
+      <p className='text-2xl text-white font-bold'>Home</p>
     </div>
   );
 };

@@ -69,14 +69,15 @@ var options = {
             loader: 'css-loader',
           },
           {
+            loader: 'postcss-loader',
+          },
+          {
             loader: 'sass-loader',
             options: {
               sourceMap: true,
             },
           },
-          'postcss-loader',
         ],
-        exclude: /\.module\.css$/,
       },
       {
         test: new RegExp('.(' + fileExtensions.join('|') + ')$'),

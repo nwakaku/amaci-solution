@@ -23,9 +23,7 @@ The primary goals of this project are:
 - **Message Signing**:
   - Allow users to sign MACI messages directly from the app.
   - Display signed messages in human-readable and raw formats.
-- **Backup and Recovery**:
-  - Generate mnemonic phrases for keypair recovery.
-  - Restore keypairs using recovery phrases.
+
 - **User-Friendly Interface**:
   - Intuitive dashboard to manage keys and view their status.
   - Tooltip explanations for technical actions.
@@ -72,4 +70,3 @@ The primary goals of this project are:
 
 ## 6. Conclusion
 The A-MACI KeyKeeper project addresses a critical gap in the A-MACI ecosystem, providing users with a secure and user-friendly tool for keypair management and message signing. By enhancing usability and security, this tool will drive broader adoption of A-MACI systems, fostering trust in decentralized governance solutions.
-
